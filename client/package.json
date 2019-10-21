@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "My tiptop Nuxt.js project",
+  "author": "Faruk SALDIR",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@casl/ability": "^3.2.0",
+    "@casl/vue": "^0.5.1",
+    "@nuxtjs/auth": "^4.8.4",
+    "@nuxtjs/axios": "^5.6.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
